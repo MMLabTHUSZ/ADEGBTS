@@ -1,5 +1,6 @@
 # ADEGBTS
 **A** **D**ataset for **E**xploring **G**aze **B**ehaviors in **T**ext **S**ummarization.
+
 [![DOI](https://zenodo.org/badge/243597930.svg)](https://zenodo.org/badge/latestdoi/243597930)
 
 ## Motivation
