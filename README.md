@@ -49,5 +49,5 @@ We used three eye tracker devices ([**Tobii EyeTracking 4C**](https://gaming.tob
 
 The dataset can also be downloaded from [Dropbox](https://www.dropbox.com/s/vf5lck49opig8cm/ADEGBTS.zip?dl=0).
 
-
+More details are shown in the [webpage](https://mmlabthusz.github.io/).
 
