@@ -3,6 +3,19 @@
 
 [![DOI](https://zenodo.org/badge/243597930.svg)](https://zenodo.org/badge/latestdoi/243597930)
 
+If you plan to make use of this dataset, please acknowledge the work of the authors by citing our paper.
+```
+@inproceedings{Kun:2020:textdataset,
+    Address = {Istanbul, Turkey},
+    Author = {Yi, Kun and Guo, Yu and Jiang, Weifeng and Wang, Zhi and Sun, Lifeng},
+    Booktitle = {Proceedings of the 11th International Conference on Multimedia Systems},
+    Publisher = {ACM},
+    Series = {MMSys '20},
+    Title = {A Dataset for Exploring Gaze Behaviors in Text Summarization},
+    Year = {2020}
+}
+```
+
 ## Motivation
 
 Automatic text summarization has been a hot research topic for years. Though most of the existing studies only use the content itself to generate the summaries, researchers believe that an individual's *reading behaviors* have much to do with the summaries s/he generates, usually regarded as the ground truth. However, such research is limited by the lack of a dataset that provides the connection between people's reading behaviors and the summaries provided by them. 
