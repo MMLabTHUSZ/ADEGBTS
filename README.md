@@ -4,6 +4,10 @@
 [![DOI](https://zenodo.org/badge/243597930.svg)](https://zenodo.org/badge/latestdoi/243597930)
 
 If you plan to make use of this dataset, please acknowledge the work of the authors by citing our paper.
+
+```
+Kun Yi, Yu Guo, Weifeng Jiang, Zhi Wang, Lifeng Sun. 2020. A Dataset for Exploring Gaze Behaviors in Text Summarization. In 11th ACM Multimedia Systems Conference (MMSys’20), June 8–11, 2020, Istanbul, Turkey. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3339825.3394928
+```
 ```
 @inproceedings{Kun:2020:textdataset,
     Address = {Istanbul, Turkey},
